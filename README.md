@@ -1,4 +1,5 @@
 <h1 align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopam-joshi-au26" alt="Roopam" /> </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Roopam+Joshi....;Nice+to+meet+you!&center=true&size=30">
     <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
