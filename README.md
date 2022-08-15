@@ -78,5 +78,5 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/roopam-joshi-au26/Coding-Challenges" title="Coding-Challenges"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=roopam-joshi-au26&repo=Coding-Challenges&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/roopam-joshi-au26/DS-Algo" title="Data Structure & Algorithm"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=roopam-joshi-au26&repo=DS-Algo&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/roopam-joshi-au26/React-Projects" title="Data Structure & Algorithm"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=roopam-joshi-au26&repo=DS-Algo&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
